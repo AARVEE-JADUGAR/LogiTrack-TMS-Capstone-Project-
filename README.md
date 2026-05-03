@@ -2,7 +2,7 @@
 
 A full-featured **Logistics & Transport Management System** built as a React capstone project.
 
-## 📦 Features
+# 📦 Features
 
 ### 1. Dashboard
 - Live stats: Today's LRs, Total Freight, Pending shipments, Customer count
